@@ -1,0 +1,15 @@
+MATLAB CODES & USE:-
+
+1. tmax.m: for tmax,tmean,tmin analysis
+2. heatwavefdh.m: for observerd heatwave frequency, duration & hotdays analysis
+3. cdd.m: for cooling degree days analysis
+4. futureheatwave.m: for future heatwave frequency and duration analysis
+
+
+ADDITIONAL FILES:-
+
+1. india_latlon.txt : all india grids at 0.25x0.25 degree resolution.
+2. rajasthan_latlon.xlsx : all rajasthan grids at 0.25x0.25 degree resolution.
+3. vec_linspace.m : used in heatwave codes. (store is same directory as code) 
+4. ktaub.m: used in codes where changes are estimated. (store is same directory as code) 
+5. sample_timeseries_data : sample timeseries tmax for a particular grid point.
